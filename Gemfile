@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 gemspec
-gem 'logstash', :github => 'elastic/logstash', :branch => '1.4'
+gem 'logstash-core', :github => 'elastic/logstash', :tag => 'v5.4.1'
